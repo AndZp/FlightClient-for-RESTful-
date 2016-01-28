@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='RESTClient' version='1.0'>
+	<schema type='-xmlschema' package='ua.com.ukrelektro.flight.rs' name='FlightJAXB'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/FlightJAXB/localhost_8080/FlightRESTful/rest/application.wadl/xsd0.xsd' origLocation='http://localhost:8080/FlightRESTful/rest/application.wadl/xsd0.xsd' origLocationType='url'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+</schemas>
